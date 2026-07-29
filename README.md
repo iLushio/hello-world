@@ -1,3 +1,3 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
-holis
+🇨🇱 Soy estudiante de chile y estoy aprendiendo programación
+busco mejorar y aprender nuevas tecnologias
