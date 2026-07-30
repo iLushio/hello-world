@@ -4,4 +4,4 @@ busco mejorar y aprender nuevas tecnologias
 
 ![Mi Imagen](656813.png)
 
-![Mi Imagen](empieza lo bueno.jpg)
+![Mi Imagen](empieza%20lo%20bueno.jpg)
